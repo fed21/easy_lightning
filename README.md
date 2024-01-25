@@ -76,3 +76,20 @@ By understanding the role of each file and folder, you'll be better equipped to 
 
 
 Start your deep learning journey with Easy Lightning today and experience a new level of simplicity and efficiency in creating and configuring AI-Deep learning notebooks.
+
+## 📚 Thesis on Overparametrization and Double Descent in Noisy Environments
+
+In this project, we are conducting research on the fascinating phenomena of overparametrization and double descent in deep learning, particularly in noisy environments. Overparametrization refers to the scenario where neural networks have more parameters than necessary for a given task, and double descent is a phenomenon where the performance of a model first improves, then worsens, and then improves again as the model's capacity (number of parameters) increases.
+
+In the context of Easy Lightning, our research is aimed at understanding how the configuration-based approach provided by Easy Lightning can be used to explore and analyze these phenomena effectively. We have utilized Easy Lightning to run experiments and gather insights into the behavior of deep learning models in noisy environments, shedding light on the factors influencing the double descent phenomenon.
+
+### Project Notebooks and Configurations
+
+To access the notebooks and configurations related to this research, you can find them in the following directories:
+
+- In the `ntb` directory, you will find notebooks that showcase the experiments conducted for our thesis.
+- In the `cfg-thesis` directory, you will find the configurations used for these experiments.
+
+This research is part of the broader scope of Easy Lightning, where we strive to simplify the process of conducting in-depth studies and experiments in the field of deep learning. We believe that our work will contribute to a better understanding of overparametrization and double descent in noisy environments, making it more accessible to researchers and data scientists.
+
+Stay tuned for exciting discoveries and insights as we continue to explore the world of deep learning with Easy Lightning!
